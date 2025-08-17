@@ -387,7 +387,7 @@ function shuffleOptions(opts){
 
 function nextMessage(){
   document.getElementById('mess1').style.display='block';
-  document.getElementById('mess1').innerText = "We would appreciate it if you could tell us your name.";
+  document.getElementById('mess1').innerText = "It would be a pleasure if you could tell us your name.";
   document.querySelector('.btn1').style.display = 'none';
   document.getElementById('nameInput').style.display = 'inline';
   document.getElementById('submitName').style.display = 'inline';
